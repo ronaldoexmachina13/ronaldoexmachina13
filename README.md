@@ -1,4 +1,4 @@
-### Ronaldo Duarte
+### Ronaldo Silva
 
 Financial analyst at BNP Paribas Cardif, building quantitative equity research in Python and SQL. My work tests ideas against a written plan, reports nulls as nulls, and logs every error it finds.
 
